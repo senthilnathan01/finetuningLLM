@@ -1,0 +1,1307 @@
+[
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 0
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 1
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 2
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 3
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 4
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 5
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 6
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 7
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 8
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 9
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 10
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 11
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 12
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 13
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 14
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 15
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 16
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 17
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 18
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 19
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 20
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 21
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 22
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 23
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 24
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 25
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 26
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 27
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 28
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 29
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 30
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 31
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 32
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 33
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 34
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 35
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 37
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 38
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 39
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 40
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 41
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 43
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 44
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 45
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 46
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 47
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 49
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 50
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 51
+  },
+  {
+    "category": "incomplete_solution",
+    "description": "Response too short",
+    "example_index": 52
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 53
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 54
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 56
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 57
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 58
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 59
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 60
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 61
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 62
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 63
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 65
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 66
+  },
+  {
+    "category": "format_error",
+    "description": "HF model classified as format_error",
+    "example_index": 67
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 68
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 70
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 71
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 72
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 73
+  },
+  {
+    "category": "other",
+    "description": "HF model classified as other",
+    "example_index": 74
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 75
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 76
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 77
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 78
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 79
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 83
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 84
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 85
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 86
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 87
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 88
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 89
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 90
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 91
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 92
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 93
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 94
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 95
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 96
+  },
+  {
+    "category": "other",
+    "description": "HF model classified as other",
+    "example_index": 97
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 98
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 99
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 101
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 102
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 103
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 104
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 106
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 107
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 109
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 110
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 111
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 112
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 114
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 115
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 116
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 117
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 118
+  },
+  {
+    "category": "incomplete_solution",
+    "description": "HF model classified as incomplete_solution",
+    "example_index": 119
+  },
+  {
+    "category": "incomplete_solution",
+    "description": "Response too short",
+    "example_index": 121
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 122
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 123
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 124
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 125
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 126
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 128
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 129
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 130
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 131
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 132
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 133
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 134
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 135
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 137
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 138
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 139
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 140
+  },
+  {
+    "category": "incomplete_solution",
+    "description": "HF model classified as incomplete_solution",
+    "example_index": 141
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 142
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 143
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 144
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 145
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 146
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 147
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 148
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 149
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 150
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 151
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 152
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 153
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 154
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 157
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 158
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 159
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 160
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 161
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 162
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 163
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 164
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 165
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 166
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 167
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 168
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 169
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 170
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 171
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 172
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 174
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 175
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 176
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 180
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 182
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 183
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 184
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 185
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 187
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 189
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 190
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 191
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 192
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 193
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 197
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 198
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 199
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 201
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 203
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 204
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 205
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 206
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 207
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 208
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 209
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 210
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 211
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 212
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 213
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 214
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 215
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 216
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 218
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 219
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 220
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 221
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 222
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 223
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 224
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 225
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 226
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 227
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 228
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 229
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 230
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 231
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 232
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 233
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 234
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 235
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 236
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 238
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 239
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 240
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 241
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 242
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 243
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 244
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 245
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 246
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 247
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 248
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 249
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 250
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 251
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 252
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 253
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 255
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 256
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 257
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 259
+  },
+  {
+    "category": "reasoning_error",
+    "description": "Logic error",
+    "example_index": 261
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 263
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 264
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 265
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 266
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 267
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 268
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 269
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 271
+  },
+  {
+    "category": "other",
+    "description": "HF model classified as other",
+    "example_index": 272
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 273
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 274
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 275
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 276
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 277
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 279
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 280
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 281
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 282
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 283
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 284
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 286
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 287
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 288
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 289
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 290
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 291
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 292
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 293
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 294
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 295
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 296
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 297
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 298
+  },
+  {
+    "category": "calculation_error",
+    "description": "HF model classified as calculation_error",
+    "example_index": 299
+  }
+]
